@@ -12,3 +12,9 @@ Day 1-
 8.Left rotate array by one place
 9.left rotate the array by k places
 10.move zeros to the end of array
+
+Day 2-
+1.LinearSearch
+2.Union of two sorted Array
+3.Intersection of two array
+4.InsertionSort
