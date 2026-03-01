@@ -18,3 +18,9 @@ Day 2-
 2.Union of two sorted Array
 3.Intersection of two array
 4.InsertionSort
+
+Day 3-
+1.Missing Number
+2.Maximum consecutive ones
+3.find the number that appearsonce and the other twice
+2.
