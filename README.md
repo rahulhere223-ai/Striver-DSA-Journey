@@ -23,4 +23,3 @@ Day 3-
 1.Missing Number
 2.Maximum consecutive ones
 3.find the number that appearsonce and the other twice
-2.
