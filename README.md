@@ -28,3 +28,9 @@ Day 4-
 1.Longest subarray with givensum(Positive and Negative)
 2.Maximum subarray sum
 3.Longest consecutive subsequence
+
+Day 5-
+1.Count subarray sum equals K
+2.Leaders in array
+3.sort 0s 1s 2s
+4.Two sum
