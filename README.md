@@ -34,3 +34,8 @@ Day 5-
 2.Leaders in array
 3.sort 0s 1s 2s
 4.Two sum
+
+Day 6-
+1.Majority Element
+2.Maximum product subarray
+3.Rearrange the elemnts of array by sign
