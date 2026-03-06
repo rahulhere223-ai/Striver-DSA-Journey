@@ -39,3 +39,8 @@ Day 6-
 1.Majority Element
 2.Maximum product subarray
 3.Rearrange the elemnts of array by sign
+
+Day 7-
+1.3 Sum
+2.Majority Element II
+3.Count number of Subarray with XOR K
