@@ -48,4 +48,9 @@ Day 7-
 Day 8-
 1.Four sum
 
+Day 9-
+1.BinarySearch(iterative and recursive)
+2.LowerBound and UpperBound
+3.Search Insert Position
+4.Floor and Ceil in a sorted array
 
