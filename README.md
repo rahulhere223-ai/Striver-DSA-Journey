@@ -54,3 +54,7 @@ Day 9-
 3.Search Insert Position
 4.Floor and Ceil in a sorted array
 
+Day 10-
+1.find the first and last occurence of given number in a sorted array
+2.count occurence of given number in a sorted array
+
