@@ -58,3 +58,7 @@ Day 10-
 1.find the first and last occurence of given number in a sorted array
 2.count occurence of given number in a sorted array
 
+Day 11-
+1.Search in a rotated sorted array I
+2.Search in a rotated sorted array II
+3.Minimum element in a rotated sorted array
