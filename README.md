@@ -62,3 +62,7 @@ Day 11-
 1.Search in a rotated sorted array I
 2.Search in a rotated sorted array II
 3.Minimum element in a rotated sorted array
+
+Day 12-
+1.How may times the array is rotated
+2.Single element in a sorted array
