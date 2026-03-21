@@ -66,3 +66,8 @@ Day 11-
 Day 12-
 1.How may times the array is rotated
 2.Single element in a sorted array
+
+Day 13-
+1.Find Peak Element
+2.Find square root of a Integer
+3.Find Nth root of an Integer
