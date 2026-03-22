@@ -71,3 +71,7 @@ Day 13-
 1.Find Peak Element
 2.Find square root of a Integer
 3.Find Nth root of an Integer
+
+Day 14-
+1.Koko eating Banana
+2.find the minimum number of days to make m bouquet
