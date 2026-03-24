@@ -75,3 +75,7 @@ Day 13-
 Day 14-
 1.Koko eating Banana
 2.find the minimum number of days to make m bouquet
+
+Day 15-
+1.least capacity to ship package within D days
+2.Finf the smallest divisor given a threshold
