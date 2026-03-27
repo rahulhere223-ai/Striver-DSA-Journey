@@ -79,3 +79,7 @@ Day 14-
 Day 15-
 1.Least Capacity to ship package within D days
 2.Find the smallest divisor given a threshold
+
+Day 16-
+1.find the kth missing positive number
+2.Find the median of the  sorted array
