@@ -1,4 +1,4 @@
-# Striver-DSA-Journey (Arrays - 1D  Array)
+# Striver-DSA-Journey (Arrays - 1D  Array && Binary search)
 Solving Striver’s A2Z DSA Sheet in Java with structured approach. Focused on mastering Data Structures &amp; Algorithms for product-based companies.
 
 Day 1-
