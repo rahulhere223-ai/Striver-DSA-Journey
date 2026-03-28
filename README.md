@@ -1,4 +1,4 @@
-# Striver-DSA-Journey (Arrays - 1D 2D ArrayList)
+# Striver-DSA-Journey (Arrays - 1D  Array)
 Solving Striver’s A2Z DSA Sheet in Java with structured approach. Focused on mastering Data Structures &amp; Algorithms for product-based companies.
 
 Day 1-
@@ -83,3 +83,7 @@ Day 15-
 Day 16-
 1.find the kth missing positive number
 2.Find the median of the  sorted array
+
+Day 17-
+1.Aggressive Cows
+2.Book allocation/Allocate books
